@@ -20,11 +20,16 @@ I'm Igor Malheiros, an Operations Research developer and researcher. I have an i
 - Competitive Programming
 - Web Development
 
-## Stats:
+## Github Stats:
 
-![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igormalheiros&show_icons=true&theme=gotham)&nbsp;&nbsp;
-![Igor's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igormalheiros&layout=compact&langs_count=8&theme=gotham)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=igormalheiros&show_icons=true&theme=gotham" />
+</>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igormalheiros&layout=compact&langs_count=8&theme=gotham" />
+</>
 <br />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=igormalheiros.igormalheiros)
 
 ## Get in touch:
