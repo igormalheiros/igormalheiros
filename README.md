@@ -22,8 +22,8 @@ I'm Igor Malheiros, an Operations Research developer and researcher. I have an i
 
 ## Stats:
 
-![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igormalheiros&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Igor's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igormalheiros&layout=compact&langs_count=8)
+![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igormalheiros&show_icons=true&theme=gotham)&nbsp;&nbsp;
+![Igor's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igormalheiros&layout=compact&langs_count=8&theme=gotham)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=igormalheiros.igormalheiros)
 
@@ -33,7 +33,7 @@ I'm Igor Malheiros, an Operations Research developer and researcher. I have an i
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/igormalheiros/">
-  <img align="left" alt="Igor's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://scholar.google.com.br/citations?hl=en&user=9XGfHjUAAAAJ">
   <img align="left" alt="Igor's scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />
