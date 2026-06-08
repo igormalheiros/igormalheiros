@@ -7,8 +7,7 @@ I'm Igor Malheiros, an Operations Research developer and researcher. I have an i
 
 ## Work / Education:
 
-- I’m currently working at Atoptima.
-- I'm PhD candidate at Université de Montpellier, France.
+- Ph.D. in Computer Science, Université de Montpellier, France.
 - M.Sc. Informatics, Universidade Federal da Paraíba (UFPB), Brazil.
 - B.Sc. Computer Science, Universidade Federal da Paraíba (UFPB), Brazil.
 - Computer Science exchange Year, University College Cork (UCC), Ireland.
