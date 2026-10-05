@@ -7,6 +7,7 @@ I'm Igor Malheiros, an Operations Research developer and researcher. I have an i
 
 ## Work / Education:
 
+- Postdoctoral Researcher, CNRS, LIP6, Sorbonne Université, Paris, France
 - Ph.D. in Computer Science, Université de Montpellier, France.
 - M.Sc. Informatics, Universidade Federal da Paraíba (UFPB), Brazil.
 - B.Sc. Computer Science, Universidade Federal da Paraíba (UFPB), Brazil.
